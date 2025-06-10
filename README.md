@@ -2,7 +2,7 @@
 
 A modern, interactive Pokedex application that allows users to search, filter, and explore Pokemon with their various forms and abilities.
 
-![Pokedex Screenshot](./screenshot.png)
+![App Screenshot](screenshot/my_pokedex_solo.png)
 
 ## ✨ Features
 
