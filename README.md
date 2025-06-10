@@ -83,7 +83,7 @@ A modern, interactive Pokedex application that allows users to search, filter, a
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Styling**: Modern CSS with Flexbox/Grid layouts
-- **API Integration**: Pokemon API for data fetching
+- **API Integration**: Pokemon API for data fetching and Graphql
 - **Responsive Design**: Mobile-first approach
 
 ## 📱 Browser Support
@@ -108,23 +108,6 @@ A modern, interactive Pokedex application that allows users to search, filter, a
 - 🔍 Enhanced search functionality
 - 📱 Improved mobile responsiveness
 - 🎨 Updated UI with modern design patterns
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create your feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Contribution Ideas
-- Add more Pokemon generations
-- Implement Pokemon comparison feature
-- Add battle statistics
-- Create Pokemon evolution trees
-- Improve accessibility features
 
 ## 🐛 Known Issues
 
