@@ -46,14 +46,12 @@ A modern, interactive Pokedex application that allows users to search, filter, a
    ```
 
 3. **Open the application**
-   - Open `index.html` in your web browser
+   ```bash
+   npm install
+   ```
    - Or use a local server for better performance:
    ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx serve .
+   npm run dev
    ```
 
 4. **Start exploring!**
